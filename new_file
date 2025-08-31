@@ -1,17 +1,6 @@
 entity (
     ....
 
-<<<<<<< HEAD
-    
-)
-
-architecture (
-
-component A
-
-
-)
-=======
 
 )
 
@@ -20,6 +9,6 @@ architecture (
 
 
 
-    component BS
+    component B
 )
->>>>>>> 5a1203d (added component B)
+
