@@ -3,3 +3,10 @@ entity (
 
     
 )
+
+architecture (
+
+component A
+
+
+)
