@@ -10,5 +10,7 @@ architecture (
 
 
     component B
+    component C
+
 )
 
